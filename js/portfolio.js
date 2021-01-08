@@ -1,0 +1,51 @@
+alert("Welcome to Srushti Bopte Portflio. Waiting to get Hired soon")
+$(function(){
+    $(".name").fadeIn(3000);
+    $(".name").fadeOut(5000);
+    $(".name").fadeIn(3000);
+    $(".name").fadeOut(5000);
+    $(".name").fadeIn(3000);
+    $(".name").fadeOut(4000);
+    $(".name").fadeIn(2000);
+    $(".name").fadeOut(4000);
+    $(".name").fadeIn(2000);
+    $(".name").fadeOut(4000);
+    $(".name").fadeIn(2000);
+    $(".name").fadeOut(4000);
+    $(".name").fadeIn(2000);
+    $(".name").fadeOut(4000);
+    $(".name").fadeIn(2000);
+})
+$(function(){
+    $(".font").animate({
+        "font-size":"30px"
+    },4000);
+    $(".font").animate({
+        "font-size":"20px"
+    },4000);
+    $(".font").animate({
+        "font-size":"30px"
+    },4000);
+    $(".font").animate({
+        "font-size":"20px"
+    },4000);
+    $(".font").animate({
+        "font-size":"30px"
+    },4000);
+    $(".font").animate({
+        "font-size":"20px"
+    },4000);
+    $(".font").animate({
+        "font-size":"30px"
+    },4000);
+    $(".font").animate({
+        "font-size":"20px"
+    },4000);
+    $(".font").animate({
+        "font-size":"30px"
+    },4000);
+    $(".font").animate({
+        "font-size":"20px"
+    },4000);
+
+})
